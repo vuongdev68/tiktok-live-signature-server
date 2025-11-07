@@ -1,7 +1,7 @@
 #Custom Sign Server
 
 We provide source code for sign server
-
+- Generate XBogus, Xgnarly..
 
 - TIKTOK LIVE, TIKTOK LIVE CONNECTOR
 ## 🔗 Features
@@ -14,7 +14,6 @@ We provide source code for sign server
   - 👤 Follows
   - 💬 Comments
   - ...
-- Easily integrate with Discord bots or any system using WebSocket.
 # Contact 
 Discord: https://discord.gg/vUxskTeAWs
 
