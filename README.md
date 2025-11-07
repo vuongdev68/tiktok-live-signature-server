@@ -1,9 +1,9 @@
-# tiktok-live-websocket
+#Custom Sign Server
 
-We provide a WebSocket service that connects directly to TikTok Live and delivers real-time events such as gifts, room joins, follows, shares, likes, and more.
+We provide source code for sign server
 
-RaidTok service:
-- TIKTOK LIVE, TIKTOK WEBSOCKET
+
+- TIKTOK LIVE, TIKTOK LIVE CONNECTOR
 ## 🔗 Features
 
 - Receive real-time TikTok Live events:
@@ -15,8 +15,7 @@ RaidTok service:
   - 💬 Comments
   - ...
 - Easily integrate with Discord bots or any system using WebSocket.
-# DEMO: https://reactor.tokpilot.com/ws/overlay
 # Contact 
-Discord: https://discord.gg/YsYppxg392
+Discord: https://discord.gg/vUxskTeAWs
 
 
